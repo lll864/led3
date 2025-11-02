@@ -1,0 +1,15 @@
+16\os_msg.o: uCOS-III\Source\os_msg.c
+16\os_msg.o: uCOS-III\Source\os.h
+16\os_msg.o: .\uCOS-CONFIG\os_cfg.h
+16\os_msg.o: .\uC-CPU\cpu_core.h
+16\os_msg.o: .\uC-CPU\ARM-Cortex-M4\RealView\cpu.h
+16\os_msg.o: .\uC-CPU\cpu_def.h
+16\os_msg.o: .\uCOS-CONFIG\cpu_cfg.h
+16\os_msg.o: .\uC-LIB\lib_def.h
+16\os_msg.o: .\uC-LIB\lib_mem.h
+16\os_msg.o: .\uC-CPU\cpu_core.h
+16\os_msg.o: .\uCOS-CONFIG\lib_cfg.h
+16\os_msg.o: .\uC-LIB\lib_str.h
+16\os_msg.o: .\uC-LIB\lib_ascii.h
+16\os_msg.o: .\uCOS-III\Source\os_type.h
+16\os_msg.o: .\uCOS-III\Ports\ARM-Cortex-M4\Generic\RealView\os_cpu.h

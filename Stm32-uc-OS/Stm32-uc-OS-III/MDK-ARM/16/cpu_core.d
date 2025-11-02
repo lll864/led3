@@ -1,0 +1,11 @@
+16\cpu_core.o: uC-CPU\cpu_core.c
+16\cpu_core.o: .\uC-CPU\cpu_core.h
+16\cpu_core.o: .\uC-CPU\ARM-Cortex-M4\RealView\cpu.h
+16\cpu_core.o: .\uC-CPU\cpu_def.h
+16\cpu_core.o: .\uCOS-CONFIG\cpu_cfg.h
+16\cpu_core.o: .\uC-LIB\lib_def.h
+16\cpu_core.o: .\uC-LIB\lib_mem.h
+16\cpu_core.o: .\uC-CPU\cpu_core.h
+16\cpu_core.o: .\uCOS-CONFIG\lib_cfg.h
+16\cpu_core.o: .\uC-LIB\lib_str.h
+16\cpu_core.o: .\uC-LIB\lib_ascii.h
